@@ -1,0 +1,7 @@
+[debug] > Exec({file:/C:/Users/luisr/repositorios/BM/BeC/ScalaProject/}root/unmanagedJars, None, None)
+[debug] Evaluating tasks: Compile / unmanagedJars
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed 03/04/2023 14:03:24
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
